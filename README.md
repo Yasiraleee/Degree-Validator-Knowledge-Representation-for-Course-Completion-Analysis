@@ -14,7 +14,7 @@ This project provides a tool to analyze a student's degree completion status bas
 
 To install the necessary SpaCy model, run:
 
-```bash
+```bash`
 !python -m spacy download en_core_web_md
 
 ## Functionality Overview
