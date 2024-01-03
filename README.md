@@ -21,10 +21,10 @@ To install the necessary SpaCy model, run:
 
 The code provided categorizes courses, calculates credit hours, identifies failed courses, and suggests additional courses needed for degree completion.
 
-    - Course Categorization: Utilizes SpaCy and numpy for natural language processing to categorize courses based on their similarity to predefined courses in specific categories.
-    - Credit Hours Calculation: Determines completed credit hours for each category based on the provided transcript data.
-    - Identifying Failed Courses: Detects failed courses within the transcript.
-    - Course Suggestions: Offers suggestions for additional courses required to fulfill credit requirements.
+    - **Course Categorization**: Utilizes SpaCy and numpy for natural language processing to categorize courses based on their similarity to predefined courses in specific categories.
+    - **Credit Hours Calculation**: Determines completed credit hours for each category based on the provided transcript data.
+    - **Identifying Failed Courses**: Detects failed courses within the transcript.
+    - **Course Suggestions**: Offers suggestions for additional courses required to fulfill credit requirements.
 
 ## Contribution
 
